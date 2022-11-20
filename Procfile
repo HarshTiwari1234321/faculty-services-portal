@@ -1,1 +1,1 @@
-web: guicorn app/run:app
+web: guicorn run:app
